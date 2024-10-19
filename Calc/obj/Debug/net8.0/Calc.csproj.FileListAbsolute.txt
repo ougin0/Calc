@@ -1,0 +1,14 @@
+c:\Users\ftyy2\Desktop\Calc\Calc\bin\Debug\net8.0\Calc.exe
+c:\Users\ftyy2\Desktop\Calc\Calc\bin\Debug\net8.0\Calc.deps.json
+c:\Users\ftyy2\Desktop\Calc\Calc\bin\Debug\net8.0\Calc.runtimeconfig.json
+c:\Users\ftyy2\Desktop\Calc\Calc\bin\Debug\net8.0\Calc.dll
+c:\Users\ftyy2\Desktop\Calc\Calc\bin\Debug\net8.0\Calc.pdb
+c:\Users\ftyy2\Desktop\Calc\Calc\obj\Debug\net8.0\Calc.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ftyy2\Desktop\Calc\Calc\obj\Debug\net8.0\Calc.AssemblyInfoInputs.cache
+c:\Users\ftyy2\Desktop\Calc\Calc\obj\Debug\net8.0\Calc.AssemblyInfo.cs
+c:\Users\ftyy2\Desktop\Calc\Calc\obj\Debug\net8.0\Calc.csproj.CoreCompileInputs.cache
+c:\Users\ftyy2\Desktop\Calc\Calc\obj\Debug\net8.0\Calc.dll
+c:\Users\ftyy2\Desktop\Calc\Calc\obj\Debug\net8.0\refint\Calc.dll
+c:\Users\ftyy2\Desktop\Calc\Calc\obj\Debug\net8.0\Calc.pdb
+c:\Users\ftyy2\Desktop\Calc\Calc\obj\Debug\net8.0\Calc.genruntimeconfig.cache
+c:\Users\ftyy2\Desktop\Calc\Calc\obj\Debug\net8.0\ref\Calc.dll
